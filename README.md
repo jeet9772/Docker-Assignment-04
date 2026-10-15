@@ -127,6 +127,8 @@ docker compose -f compose.runtime.yml up -d
 docker compose -f compose.runtime.yml ps
 ```
 
+<img width="1440" height="900" alt="Screenshot 2026-10-15 at 7 14 15 PM" src="https://github.com/user-attachments/assets/2913ce60-c6fe-49c3-92b1-99aefd851373" />
+
 **Expected result:** The application runs using published images without cloning or building the source code on the deployment machine.
 
 ## Step 3: Run on a Teammate's System Without Cloning
