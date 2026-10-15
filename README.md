@@ -155,6 +155,9 @@ If the images are private, log in to Docker Hub first:
 docker login
 ```
 
+<img width="1440" height="900" alt="Screenshot 2026-10-15 at 7 18 53 PM" src="https://github.com/user-attachments/assets/0434c269-2fe4-428a-9d3e-9676409c2123" />
+
+
 **Expected result:** The teammate can run the application without cloning the OT-Microservices repository.
 
 ## Step 4: High Availability for Microservices
