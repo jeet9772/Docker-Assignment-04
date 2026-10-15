@@ -40,6 +40,8 @@ git clone https://github.com/opstree/OT-Microservices.git
 cd OT-Microservices
 ```
 
+<img width="1440" height="900" alt="Screenshot 2026-10-15 at 7 03 26 PM" src="https://github.com/user-attachments/assets/f7118670-2d63-407c-9d09-a8bdd2afc686" />
+
 Check the project files:
 
 ```bash
