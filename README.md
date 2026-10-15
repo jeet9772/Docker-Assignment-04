@@ -235,6 +235,8 @@ Compose will also start dependencies required by the selected services according
 | `docker compose down` | Remove project containers and network |
 | `docker compose up -d --scale SERVICE=3` | Scale a service to three instances |
 
+<img width="1440" height="900" alt="Screenshot 2026-10-13 at 10 12 06 PM" src="https://github.com/user-attachments/assets/02f3a4b5-7a07-4e00-8dac-a09498f6aae7" />
+
 ## Troubleshooting
 
 ### Container Is Not Starting
@@ -275,6 +277,10 @@ Check the conflicting port and update the host port mapping if necessary.
 - [ ] Configured multiple instances of Employee, Salary, and Attendance where supported.
 - [ ] Tested the bonus task using only Attendance and MySQL.
 - [ ] Verified container status, logs, and application endpoints.
+
+
+<img width="1440" height="900" alt="Screenshot 2026-10-13 at 10 11 44 PM" src="https://github.com/user-attachments/assets/94a726f6-055e-48d8-b14d-78090fa6b7d4" />
+
 
 ## Conclusion
 
